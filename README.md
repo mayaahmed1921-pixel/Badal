@@ -1,5 +1,5 @@
 # Badal
-
+![Badal Logo](IMG-20260505-WA0012(2).jpg)
 DEPI Graduation Project
 Group Code: YAT715_ONL4_DRT4_S2 _DEPI4
 
