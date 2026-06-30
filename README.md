@@ -9,7 +9,7 @@ Track: Graphic Designer
 
  Name of Instructor: Eng. Abir Ismail
  
-Badla link : 
+Badal link : 
 
 
 This project is done by Badal
